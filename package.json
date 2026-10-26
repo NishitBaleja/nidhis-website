@@ -1,0 +1,19 @@
+{
+  "name": "jackie-zhang-portfolio-clone",
+  "version": "1.0.0",
+  "description": "Pixel-perfect clone of Jackie Zhang's creative portfolio (jackiezhang.co.za) with exact structure, animations, and typography.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "design",
+    "framer",
+    "clone",
+    "jackie-zhang"
+  ],
+  "author": "Jackie Zhang (Replicated)",
+  "license": "MIT"
+}
